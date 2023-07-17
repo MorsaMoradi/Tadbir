@@ -1,0 +1,13 @@
+21:45 [Information] DESKTOP-D7U86A2 (1) starting new instance app
+21:48 [Information] DESKTOP-D7U86A2 (1) starting new instance app
+22:20 [Information] DESKTOP-D7U86A2 (1) starting new instance app
+22:20 [Information] DESKTOP-D7U86A2 (6) person saved "{\"Id\":\"642c3f6a-6406-454a-be26-30b10019a4fc\",\"FirstName\":\"Keyivan\",\"LastName\":\"Moghimi\",\"Age\":43}"
+22:20 [Information] DESKTOP-D7U86A2 (6) person saved "{\"Id\":\"95628b68-4977-4e89-81d5-ca764afdf99f\",\"FirstName\":\"Sanaz\",\"LastName\":\"Tohi\",\"Age\":67}"
+22:20 [Information] DESKTOP-D7U86A2 (6) person saved "{\"Id\":\"42173703-f943-4d61-b467-5a45bf686eed\",\"FirstName\":\"Rezvan\",\"LastName\":\"Sepehri\",\"Age\":49}"
+22:20 [Information] DESKTOP-D7U86A2 (6) person saved "{\"Id\":\"1bd8cbc5-c19c-4216-9dbc-4f8857bc9882\",\"FirstName\":\"Afsaneh\",\"LastName\":\"Rad\",\"Age\":31}"
+22:20 [Information] DESKTOP-D7U86A2 (9) person saved "{\"Id\":\"e7affe63-ab25-4d53-a21d-071d570136ad\",\"FirstName\":\"Reza\",\"LastName\":\"Mohseni\",\"Age\":13}"
+22:23 [Information] DESKTOP-D7U86A2 (1) starting new instance app
+22:23 [Information] DESKTOP-D7U86A2 (4) Read data from "PersonQueue" : "{\"FirstName\":\"Sara\",\"LastName\":\"Moradi\",\"Age\":23}"
+22:23 [Information] DESKTOP-D7U86A2 (8) person saved "{\"Id\":\"84e23e3b-259b-4cf5-98b2-3d5e6105edbb\",\"FirstName\":\"Sara\",\"LastName\":\"Moradi\",\"Age\":23}"
+22:23 [Information] DESKTOP-D7U86A2 (8) Read data from "PersonQueue" : "{\"FirstName\":\"Arash\",\"LastName\":\"Khaghani\",\"Age\":65}"
+22:23 [Information] DESKTOP-D7U86A2 (8) person saved "{\"Id\":\"41195652-2ca4-44d6-9596-5e81d66aa31e\",\"FirstName\":\"Arash\",\"LastName\":\"Khaghani\",\"Age\":65}"
